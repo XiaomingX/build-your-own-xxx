@@ -6,6 +6,17 @@
 
 这是一个学习的好方式。
 
+## 常用资源清单
+
+🌍 [跨境出海技术栈](https://github.com/XiaomingX/indie-hacker-tools-plus)
+
+🤖 [AI搞钱原则手册](https://github.com/XiaomingX/ai-money-maker-handbook)
+
+🛠️ [构建你自己的X](https://github.com/XiaomingX/build-your-own-xxx)
+
+📋 [1000个中国独立开发者项目](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
+
+
 - [构建你自己的 XXX](#构建你自己的-xxx)
 - [教程示例](#教程示例)
     - [构建自己的 `3D 渲染器`](#构建自己的-3d-渲染器)
