@@ -59,6 +59,9 @@
     - [构建自己的 `AI 漫剧制作`](#构建自己的-ai-漫剧制作)
     - [构建自己的 `AI 量化交易`](#构建自己的-ai-量化交易)
     - [构建自己的 `LLMOps`](#构建自己的-llmops)
+    - [构建自己的 `Kubernetes 管理后台`](#构建自己的-kubernetes-管理后台)
+    - [构建自己的 `即时通讯与团队协作`](#构建自己的-即时通讯与团队协作)
+    - [构建自己的 `商业运营与数据分析`](#构建自己的-商业运营与数据分析)
     - [构建自己的 `神经网络`](#构建自己的-神经网络)
     - [构建自己的 `操作系统`](#构建自己的-操作系统)
     - [构建自己的 `物理引擎`](#构建自己的-物理引擎)
@@ -270,6 +273,26 @@
 *   [**Rust**：_TensorZero：LLM 网关与优化_](https://github.com/tensorzero/tensorzero)
 *   [**TypeScript**：_Helicone：开源 LLM 成本追踪_](https://github.com/Helicone/helicone)
 *   [更多资源详见 docs/build-your-own-llmops.md](docs/build-your-own-llmops.md)
+
+#### 构建自己的 `Kubernetes 管理后台` (Dashboard 替代品)
+
+*   [**Go**：_KubePi：轻量级 K8s 面板_](https://github.com/1Panel-dev/KubePi)
+*   [**Go**：_Kuboard：企业级 K8s 管理界面_](https://github.com/eip-work/kuboard-press)
+*   [更多资源详见 docs/build-your-own-kubernetes-management.md](docs/build-your-own-kubernetes-management.md)
+
+#### 构建自己的 `即时通讯与团队协作` (微信/Discord 替代品)
+
+*   [**JavaScript**：_Rocket.Chat：开源全功能协作平台_](https://github.com/RocketChat/Rocket.Chat)
+*   [**TypeScript**：_Element：基于 Matrix 的加密通讯_](https://github.com/element-hq/element-web)
+*   [**Go**：_Mattermost：高安全性的 Slack 替代品_](https://github.com/mattermost/mattermost)
+*   [更多资源详见 docs/build-your-own-im-and-team-chat.md](docs/build-your-own-im-and-team-chat.md)
+
+#### 构建自己的 `商业运营与数据分析` (SaaS 替代品)
+
+*   [**PHP**：_Matomo：Google Analytics 的隐私替代品_](https://github.com/matomo-org/matomo)
+*   [**Python**：_PostHog：开源产品分析平台_](https://github.com/PostHog/posthog)
+*   [**TypeScript**：_Cal.com：开源日程调度基础设施_](https://github.com/calcom/cal.com)
+*   [更多资源详见 docs/build-your-own-business-ops.md](docs/build-your-own-business-ops.md)
 
 ## 构建你自己的 `网络栈`
 
