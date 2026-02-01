@@ -53,6 +53,12 @@
     - [构建自己的 `机器人与具身智能`](#构建自己的-机器人与具身智能)
     - [构建自己的 `大模型分布式训练`](#构建自己的-大模型分布式训练)
     - [构建自己的 `AI 代码编辑器`](#构建自己的-ai-代码编辑器)
+    - [构建自己的 `AI 制药`](#构建自己的-ai-制药)
+    - [构建自己的 `AI 核聚变`](#构建自己的-ai-核聚变)
+    - [构建自己的 `AI 游戏制作`](#构建自己的-ai-游戏制作)
+    - [构建自己的 `AI 漫剧制作`](#构建自己的-ai-漫剧制作)
+    - [构建自己的 `AI 量化交易`](#构建自己的-ai-量化交易)
+    - [构建自己的 `LLMOps`](#构建自己的-llmops)
     - [构建自己的 `神经网络`](#构建自己的-神经网络)
     - [构建自己的 `操作系统`](#构建自己的-操作系统)
     - [构建自己的 `物理引擎`](#构建自己的-物理引擎)
@@ -224,6 +230,46 @@
 *   [**TypeScript**：_Void：注重隐私的开源 AI 编辑器_](https://github.com/voideditor/void)
 *   [**TypeScript**：_Continue：VS Code/JetBrains 开源 AI 助手_](https://github.com/continuedev/continue)
 *   [**TypeScript**：_PearAI：开源的可扩展 AI 代码编辑器_](https://github.com/trypear/pearai-app)
+
+#### 构建自己的 `AI 制药` (AlphaFold 替代品)
+
+*   [**Python**：_DeepMol：AI 药物发现框架_](https://github.com/DeepMol/DeepMol)
+*   [**Python**：_Uni-Fold：AlphaFold 的开源复现_](https://github.com/dptech-corp/Uni-Fold)
+*   [**Python**：_DeepChem：深度学习药物发现库_](https://github.com/deepchem/deepchem)
+*   [更多资源详见 docs/build-your-own-ai-pharma.md](docs/build-your-own-ai-pharma.md)
+
+#### 构建自己的 `AI 核聚变` (科学计算)
+
+*   [**Python**：_TORAX：DeepMind 开源等离子体模拟器_](https://github.com/google-deepmind/torax)
+*   [**Python**：_PlasmaPy：等离子体物理开源包_](https://github.com/PlasmaPy/PlasmaPy)
+*   [更多资源详见 docs/build-your-own-ai-nuclear-fusion.md](docs/build-your-own-ai-nuclear-fusion.md)
+
+#### 构建自己的 `AI 游戏制作` (不只是 NPC)
+
+*   [**Python**：_AI Assets Generator：生成游戏资产_](https://github.com/haseeb-heaven/asset-generator)
+*   [**Unity**：_AI NPC Framework：集成 OpenAI 的 NPC 框架_](https://github.com/TheWiselyBearded/AI_NPC)
+*   [更多资源详见 docs/build-your-own-ai-game-production.md](docs/build-your-own-ai-game-production.md)
+
+#### 构建自己的 `AI 漫剧制作` (Comic Factory)
+
+*   [**Web**：_LlamaGen.Ai：AI 漫画工厂_](https://github.com/LlamaGenAI)
+*   [**Python**：_AI Comic Factory：从脚本生成漫画_](https://github.com/jbilcke-hf/ai-comic-factory)
+*   [更多资源详见 docs/build-your-own-ai-comic-production.md](docs/build-your-own-ai-comic-production.md)
+
+#### 构建自己的 `AI 量化交易` (Quant/FinRL)
+
+*   [**Python**：_Qlib：微软 AI 量化平台_](https://github.com/microsoft/qlib)
+*   [**Python**：_FinRL：金融强化学习库_](https://github.com/AI4Finance-Foundation/FinRL)
+*   [**Python**：_Freqtrade：开源加密货币交易机器人_](https://github.com/freqtrade/freqtrade)
+*   [更多资源详见 docs/build-your-own-ai-quant-trading.md](docs/build-your-own-ai-quant-trading.md)
+
+#### 构建自己的 `LLMOps` (LangSmith/Langfuse 替代品)
+
+*   [**TypeScript**：_Langfuse：开源 LLM 可观测性平台_](https://github.com/langfuse/langfuse)
+*   [**Python**：_Phoenix：AI 可观测性与评估_](https://github.com/Arize-ai/phoenix)
+*   [**Rust**：_TensorZero：LLM 网关与优化_](https://github.com/tensorzero/tensorzero)
+*   [**TypeScript**：_Helicone：开源 LLM 成本追踪_](https://github.com/Helicone/helicone)
+*   [更多资源详见 docs/build-your-own-llmops.md](docs/build-your-own-llmops.md)
 
 ## 构建你自己的 `网络栈`
 
