@@ -43,10 +43,19 @@
     - [构建自己的 `前端框架/库`](#构建自己的-前端框架库)
     - [构建自己的 `游戏`](#构建自己的-游戏)
     - [构建自己的 `Git`](#构建自己的-git)
-- [构建你自己的 `网络栈`](#构建你自己的-网络栈)
-- [构建你自己的 `神经网络`](#构建你自己的-神经网络)
-- [构建你自己的 `操作系统`](#构建你自己的-操作系统)
-- [构建你自己的 `物理引擎`](#构建你自己的-物理引擎)
+    - [构建自己的 `网络栈`](#构建自己的-网络栈)
+    - [构建自己的 `算法`](#构建自己的-算法)
+    - [构建自己的 `大语言模型与训练workflow`](#构建自己的-大语言模型与训练workflow)
+    - [构建自己的 `AI 搜索引擎`](#构建自己的-ai-搜索引擎)
+    - [构建自己的 `AI 智能体 (Agent)`](#构建自己的-ai-智能体-agent)
+    - [构建自己的 `AI 知识库与播客`](#构建自己的-ai-知识库与播客)
+    - [构建自己的 `AI 角色扮演伴侣`](#构建自己的-ai-角色扮演伴侣)
+    - [构建自己的 `机器人与具身智能`](#构建自己的-机器人与具身智能)
+    - [构建自己的 `大模型分布式训练`](#构建自己的-大模型分布式训练)
+    - [构建自己的 `AI 代码编辑器`](#构建自己的-ai-代码编辑器)
+    - [构建自己的 `神经网络`](#构建自己的-神经网络)
+    - [构建自己的 `操作系统`](#构建自己的-操作系统)
+    - [构建自己的 `物理引擎`](#构建自己的-物理引擎)
     - [构建自己的 `编程语言`](#构建自己的-编程语言)
     - [构建自己的 `正则表达式引擎`](#构建自己的-正则表达式引擎)
     - [构建自己的 `搜索引擎`](#构建自己的-搜索引擎)
@@ -57,7 +66,6 @@
     - [构建自己的 `体素引擎`](#构建自己的-体素引擎)
     - [构建自己的 `网页浏览器`](#构建自己的-网页浏览器)
     - [构建自己的 `Web 服务器`](#构建自己的-web-服务器)
-    - [未分类](#未分类)
 - [贡献方式](#贡献方式)
 
 ## 教程示例
@@ -73,8 +81,6 @@
 
 #### 构建自己的 `增强现实`
 
-* [**C#**：_Unity ARCore教程_](https://www.youtube.com/playlist?list=PLKIKuXdn4ZMjuUAtdQfK1vwTZPQn_rgSv) [视频]
-* [**C#**：_ARKit教程：进入“颠倒世界”_](https://www.youtube.com/watch?v=Z5AmqMuNi08) [视频]
 * [**Python**：_使用Python和OpenCV实现增强现实_](https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/)
 
 #### 构建自己的 `BitTorrent 客户端`
@@ -88,21 +94,17 @@
 * [**Java**：_用Java构建你的第一个区块链_](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
 * [**JavaScript**：_用JavaScript构建加密货币，代码少于1500行_](https://github.com/conradoqg/naivecoin)
 * [**JavaScript**：_用JavaScript创建区块链_](https://github.com/SavjeeTutorials/SavjeeCoin)
-* [**Kotlin**：_在Kotlin中实现加密货币_](https://medium.com/@vasilyf/lets-implement-a-cryptocurrency-in-kotlin-part-1-blockchain-8704069f8580)
 * [**Python**：_Python中区块链的实用入门_](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
-* [**Ruby**：_逐步编程区块链_](https://github.com/yukimotopress/programming-blockchains-step-by-step)
 * [**TypeScript**：_NaivecoinStake教程：基于权益证明的加密货币构建_](https://naivecoinstake.learn.uno/)
 * [**Rust**：_用Rust和Substrate构建区块链_](https://hackernoon.com/building-a-blockchain-in-rust-and-substrate-a-step-by-step-guide-for-developers-kc223ybp)
 
 #### 构建自己的 `机器人 (Bot)`
 
-* [**Haskell**：_自己动手编写IRC机器人_](https://wiki.haskell.org/Roll_your_own_IRC_bot)
 * [**Node.js**：_制作一个响应式的Telegram机器人_](https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/)
 * [**Node.js**：_创建Discord机器人_](https://discordjs.guide/)
 * [**Python**：_如何用Python构建Slack机器人_](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
 * [**Python**：_创建Reddit机器人_](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
 * [**Python**：_如何用Python创建Telegram机器人_](https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/)
-* [**R**：_用R编写加密货币交易机器人_](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
 
 #### 构建自己的 `命令行工具`
 
@@ -115,12 +117,10 @@
 
 * [**C**：_从头开始构建简单数据库_](https://cstack.github.io/db_tutorial/)
 * [**C++**：_从零构建自己的Redis_](https://build-your-own.org/redis)
-* [**Clojure**：_受考古学启发的数据库_](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
 * [**Go**：_从头开始构建数据库：持久化、索引、并发_](https://build-your-own.org/database/)
 * [**Go**：_从零构建自己的Redis_](https://www.build-redis-from-scratch.dev/)
 * [**JavaScript**：_Dagoba：内存图数据库_](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
 * [**Python**：_DBDB：狗床数据库_](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
-* [**Ruby**：_在Ruby中构建快速持久的键值存储_](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/)
 
 #### 构建自己的 `Docker`
 
@@ -164,10 +164,66 @@
 
 #### 构建自己的 `Git`
 
-* [**Haskell**：_用Haskell从零开始实现“git clone”_](http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
 * [**JavaScript**：_Gitlet_](http://gitlet.maryrosecook.com/docs/gitlet.html)
 * [**Python**：_实现一个简单的Git客户端，可以创建仓库、提交和推送到GitHub_](https://benhoyt.com/writings/pygit/)
-* [**Ruby**：_用Ruby重建Git_](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
+
+#### 构建自己的 `算法`
+
+* [**Python**：_Python中的排序算法实现_](https://realpython.com/sorting-algorithms-python/)
+* [**Python**：_构建推荐系统入门_](https://realpython.com/build-recommendation-engine-collaborative-filtering/)
+* [**Python**：_生成对抗网络 (GAN) 入门_](https://realpython.com/generative-adversarial-networks/)
+* [**Python**：_机器学习分类算法基础_](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
+
+#### 构建自己的 `大语言模型与训练workflow`
+
+*   [**Python**：_NanoGPT：从头开始构建GPT_](https://github.com/karpathy/nanoGPT)
+*   [**Python**：_Andrej Karpathy: Let's build GPT_](https://www.youtube.com/watch?v=kCc8FmEb1nY) [视频]
+*   [**Python**：_LLM训练指南 (LLMs from Scratch)_](https://github.com/rasbt/LLMs-from-scratch)
+
+#### 构建自己的 `AI 搜索引擎` (Perplexity 替代品)
+
+*   [**TypeScript**：_Scira（原MiniPerplx）：极简AI元搜索引擎_](https://github.com/zaidmukaddam/scira)
+*   [**TypeScript**：_Perplexica：开源的Perplexity替代品_](https://github.com/ItzCrazyKns/Perplexica)
+*   [**TypeScript**：_Farfalle：自托管的AI搜索工具_](https://github.com/rashadphz/farfalle)
+
+#### 构建自己的 `AI 智能体 (Agent)` (Devin/Claude Cowork 替代品)
+
+*   [**Python**：_OpenHands（原OpenDevin）：开源AI软件工程师_](https://github.com/OpenHands/OpenHands)
+*   [**Python**：_SWE-agent：自主解决GitHub问题的AI智能体_](https://github.com/princeton-nlp/SWE-agent)
+*   [**Python**：_MetaGPT：多智能体协作框架_](https://github.com/OpenBMB/MetaGPT)
+*   [**Rust**：_Goose：运行在本地的AI开发者代理_](https://github.com/block/goose)
+
+#### 构建自己的 `AI 知识库与播客` (NotebookLM 替代品)
+
+*   [**Python**：_Podcastfy：将多源文本转换为AI播客_](https://github.com/souzatharsis/podcastfy)
+*   [**Python**：_Open NotebookLM：开源的NotebookLM实现_](https://github.com/gabrielchua/open-notebooklm)
+
+#### 构建自己的 `AI 角色扮演伴侣` (Character.ai 替代品)
+
+*   [**JavaScript**：_SillyTavern：高级LLM前端界面_](https://github.com/SillyTavern/SillyTavern)
+*   [**Python**：_Text-generation-webui：本地LLM运行百宝箱_](https://github.com/oobabooga/text-generation-webui)
+
+#### 构建自己的 `机器人与具身智能` (Unitree 替代品)
+
+*   [**Python**：_LeRobot：Hugging Face 开源机器人学习库_](https://github.com/huggingface/lerobot)
+*   [**Python**：_Mobile ALOHA：低成本开源移动操作机器人_](https://github.com/MarkFzp/mobile-aloha)
+*   [**C++**：_Solo 8：开源动态四足机器人_](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware)
+*   [**Python**：_Isaac Lab：基于 Isaac Sim 的机器人学习框架_](https://github.com/isaac-sim/IsaacLab)
+*   [**Python**：_Genesis：物理AI与机器人通用模拟平台_](https://github.com/Genesis-Embodied-AI/Genesis)
+
+#### 构建自己的 `大模型分布式训练` (Megatron 替代品)
+
+*   [**Python**：_Megatron-LM：NVIDIA 大规模语言模型训练框架_](https://github.com/NVIDIA/Megatron-LM)
+*   [**Python**：_DeepSpeed：微软深度学习优化库_](https://github.com/microsoft/DeepSpeed)
+*   [**Python**：_Ray：通用的分布式计算框架_](https://github.com/ray-project/ray)
+*   [**Python**：_Colossal-AI：让大模型训练更高效_](https://github.com/hpcaitech/ColossalAI)
+
+#### 构建自己的 `AI 代码编辑器` (Cursor 替代品)
+
+*   [**TypeScript**：_Cline：VS Code 自主编码智能体_](https://github.com/cline/cline)
+*   [**TypeScript**：_Void：注重隐私的开源 AI 编辑器_](https://github.com/voideditor/void)
+*   [**TypeScript**：_Continue：VS Code/JetBrains 开源 AI 助手_](https://github.com/continuedev/continue)
+*   [**TypeScript**：_PearAI：开源的可扩展 AI 代码编辑器_](https://github.com/trypear/pearai-app)
 
 ## 构建你自己的 `网络栈`
 
@@ -177,8 +233,6 @@
 
 ## 构建你自己的 `神经网络`
 
-* [**C#**：_神经网络OCR识别_](https://www.codeproject.com/Articles/11285/Neural-Network-OCR)
-* [**F#**：_在F#中构建神经网络_](https://towardsdatascience.com/building-neural-networks-in-f-part-1-a2832ae972e6)
 * [**Go**：_如何用Go构建简单的人工神经网络_](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
 * [**JavaScript**：_JavaScript神经网络教程_](https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2)
 * [**Python**：_用11行Python代码实现神经网络_](https://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -187,7 +241,6 @@
 
 ## 构建你自己的 `操作系统`
 
-* [**Assembly**：_树莓派操作系统开发教程_](http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
 * [**C**：_构建简单计算机的软件和硬件栈_](https://www.youtube.com/watch?v=ZjwvMcP3Nf0&list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX) [视频]
 * [**C**：_从零开始开发操作系统_](https://tuhdo.github.io/os01/)
 * [**C++**：_编写自己的操作系统_](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M) [视频]
@@ -209,18 +262,14 @@
 * [**C**：_从零开始构建编译器之旅_](https://github.com/DoctorWkt/acwj)
 * [**C++**：_Kaleidoscope：使用LLVM实现一种语言_](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
 * [**Go**：_超级迷你编译器_](https://github.com/hazbo/the-super-tiny-compiler)
-* [**Haskell**：_48小时内写一个Scheme解释器_](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 * [**Java**：_Crafting interpreters：编程语言构建手册_](http://www.craftinginterpreters.com/)
 * [**JavaScript**：_超级迷你编译器_](https://github.com/jamiebuilds/the-super-tiny-compiler)
 * [**JavaScript**：_小型Lisp解释器_](https://maryrosecook.com/blog/post/little-lisp-interpreter)
 * [**JavaScript**：_在JavaScript中实现一个编程语言_](http://lisperator.net/pltut/)
-* [**OCaml**：_编写一个C编译器_](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 * [**Python**：_用Python写一个Python解释器_](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 * [**Python**：_如何在Python中编写一个Lisp解释器_](http://norvig.com/lispy.html)
 * [**Python**：_让我们构建一个简单的解释器_](https://ruslanspivak.com/lsbasi-part1/)
 * [**Python**：_从源代码到机器代码：从头构建编译器_](https://build-your-own.org/compiler/)
-* [**Racket**：_优雅的Racket：如何用Racket构建自己的编程语言_](https://beautifulracket.com/)
-* [**Ruby**：_从零开始在Ruby中编写Markdown编译器_](https://blog.beezwax.net/2017/07/07/writing-a-markdown-compiler/)
 * [**Rust**：_用Rust学习解析器组合子_](https://bodil.lol/parser-combinators/)
 * [**TypeScript**：_构建你自己的WebAssembly编译器_](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 
@@ -230,9 +279,7 @@
 * [**C**：_正则表达式匹配可以简单且快速_](https://swtch.com/~rsc/regexp/regexp1.html)
 * [**Go**：_如何从头编写一个正则表达式引擎_](https://rhaeguard.github.io/posts/regex)
 * [**JavaScript**：_不到40行代码实现一个正则表达式引擎_](https://nickdrane.com/build-your-own-regex/)
-* [**Perl**：_正则表达式的工作原理_](https://perl.plover.com/Regex/article.html)
 * [**Python**：_构建你自己的正则表达式引擎：回溯、NFA、DFA_](https://build-your-own.org/b2a/r0_intro)
-* [**Scala**：_去掉魔法：正则表达式_](https://rcoh.svbtle.com/no-magic-regular-expressions)
 
 #### 构建自己的 `搜索引擎`
 
@@ -259,7 +306,6 @@
 
 * [**C**：_构建你自己的文本编辑器_](https://viewsourcecode.org/snaptoken/kilo/)
 * [**Python**：_Python教程：制作自己的文本编辑器_](https://www.youtube.com/watch?v=xqDonHEYPgA) [视频]
-* [**Ruby**：_使用Rails构建一个协作式文本编辑器_](https://blog.aha.io/text-editor/)
 * [**Rust**：_Hecto：用Rust构建你自己的文本编辑器_](https://www.flenker.blog/hecto/)
 
 #### 构建自己的 `视觉识别系统`
@@ -283,27 +329,6 @@
 * [**Python**：_简单的Web服务器_](http://aosabook.org/en/500L/a-simple-web-server.html)
 * [**Python**：_让我们构建一个Web服务器_](https://ruslanspivak.com/lsbaws-part1/)
 * [**Python**：_使用Python & Flask实现RESTful Web API_](http://blog.luisrei.com/articles/flaskrest.html)
-
-#### 未分类
-
-* [**(任意)**：_从NAND到Tetris：构建现代计算机基础_](http://nand2tetris.org/)
-* [**C**：_如何用不到1000行代码写视频播放器_](http://dranger.com/ffmpeg/ffmpeg.html)
-* [**C**：_学习在C语言中编写哈希表_](https://github.com/jamesroutley/write-a-hash-table)
-* [**C**：_终端模拟器的基本原理_](https://www.uninformativ.de/blog/postings/2018-02-24/0/POSTING-en.html)
-* [**C++**：_编写Linux调试器_](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
-* [**C++**：_构建自己的游戏引擎_](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
-* [**C#**：_从零实现3D骨骼动画加载与渲染_](https://www.seanjoflynn.com/research/skeletal-animation.html)
-* [**Go**：_用Golang实现100行终端模拟器_](https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go/)
-* [**Go**：_实现简单的负载均衡器_](https://kasvith.me/posts/lets-create-a-simple-lb-go/)
-* [**Go**：_从零开始实现视频编码_](https://github.com/kevmo314/codec-from-scratch)
-* [**JavaScript**：_构建自己的模块打包器 - Minipack_](https://github.com/ronami/minipack)
-* [**JavaScript**：_JavaScript算法与数据结构_](https://github.com/trekhleb/javascript-algorithms)
-* [**Kotlin**：_构建自己的缓存系统_](https://github.com/kezhenxu94/cache-lite)
-* [**Lua**：_从零构建内容分发网络（CDN）以了解其工作原理_](https://github.com/leandromoreira/cdn-up-and-running)
-* [**Python**：_构建深度学习库_](https://www.youtube.com/watch?v=o64FV-ez6Gw) [视频]
-* [**Python**：_实现简单生成对抗网络（GAN）_](https://blog.paperspace.com/implementing-gans-in-tensorflow/)
-* [**Rust**：_在Rust中构建DNS服务器_](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
-* [**TypeScript**：_简易包管理器：了解npm或Yarn的工作原理_](https://github.com/g-plane/tiny-package-manager)
 
 这些教程覆盖了各类编程语言和框架，让你在不同技术领域中都能找到动手实践的机会，帮助你深入理解每个系统的工作原理。
 
