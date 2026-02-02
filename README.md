@@ -201,11 +201,19 @@
 *   [**Python**：_SWE-agent：自主解决GitHub问题的AI智能体_](https://github.com/princeton-nlp/SWE-agent)
 *   [**Python**：_MetaGPT：多智能体协作框架_](https://github.com/OpenBMB/MetaGPT)
 *   [**Rust**：_Goose：运行在本地的AI开发者代理_](https://github.com/block/goose)
+*   [**JavaScript**：_Beads：基于 Git 的 AI 编程任务管理系统_](https://github.com/steveyegge/beads)
+*   [**Shell**：_learn-claude-code：手把手教你手搓 AI Agent_](https://github.com/shareAI-lab/learn-claude-code)
+*   [**Python**：_UI-TARS-desktop：字节跳动开源的桌面端 AI Agent_](https://github.com/bytedance/UI-TARS-desktop)
+*   [**Markdown**：_awesome-claude-skills：70 多个 Claude Skill 合集_](https://github.com/ComposioHQ/awesome-claude-skills)
+*   [**Python**：_superpowers：强迫 AI 遵循 TDD 流程的编程框架_](https://github.com/obra/superpowers)
+*   [**JavaScript**：_skills：Anthropic 官方提供的 Agent Skills 实现_](https://github.com/anthropics/skills)
+*   [**TypeScript**：_vibe-kanban：专门给 AI 用的看板工具_](https://github.com/BloopAI/vibe-kanban)
 
 #### 构建自己的 `AI 知识库与播客` (NotebookLM 替代品)
 
 *   [**Python**：_Podcastfy：将多源文本转换为AI播客_](https://github.com/souzatharsis/podcastfy)
 *   [**Python**：_Open NotebookLM：开源的NotebookLM实现_](https://github.com/gabrielchua/open-notebooklm)
+*   [**Python**：_PageIndex：无向量的逻辑树 RAG 方案_](https://github.com/VectifyAI/PageIndex)
 
 #### 构建自己的 `AI 角色扮演伴侣` (Character.ai 替代品)
 
@@ -264,6 +272,7 @@
 *   [**Python**：_Qlib：微软 AI 量化平台_](https://github.com/microsoft/qlib)
 *   [**Python**：_FinRL：金融强化学习库_](https://github.com/AI4Finance-Foundation/FinRL)
 *   [**Python**：_Freqtrade：开源加密货币交易机器人_](https://github.com/freqtrade/freqtrade)
+*   [**Python**：_Dexter：专为金融研究设计的 AI 分析师 Agent_](https://github.com/virattt/dexter)
 *   [更多资源详见 docs/build-your-own-ai-quant-trading.md](docs/build-your-own-ai-quant-trading.md)
 
 #### 构建自己的 `LLMOps` (LangSmith/Langfuse 替代品)
@@ -285,6 +294,7 @@
 *   [**JavaScript**：_Rocket.Chat：开源全功能协作平台_](https://github.com/RocketChat/Rocket.Chat)
 *   [**TypeScript**：_Element：基于 Matrix 的加密通讯_](https://github.com/element-hq/element-web)
 *   [**Go**：_Mattermost：高安全性的 Slack 替代品_](https://github.com/mattermost/mattermost)
+*   [**Go**：_Memos：轻量级、私密化的开源个人笔记工具_](https://github.com/usememos/memos)
 *   [更多资源详见 docs/build-your-own-im-and-team-chat.md](docs/build-your-own-im-and-team-chat.md)
 
 #### 构建自己的 `商业运营与数据分析` (SaaS 替代品)
@@ -292,6 +302,7 @@
 *   [**PHP**：_Matomo：Google Analytics 的隐私替代品_](https://github.com/matomo-org/matomo)
 *   [**Python**：_PostHog：开源产品分析平台_](https://github.com/PostHog/posthog)
 *   [**TypeScript**：_Cal.com：开源日程调度基础设施_](https://github.com/calcom/cal.com)
+*   [**TypeScript**：_Web-Check：全方位、一体化的网站 OSINT 开源工具_](https://github.com/Lissy93/web-check)
 *   [更多资源详见 docs/build-your-own-business-ops.md](docs/build-your-own-business-ops.md)
 
 ## 构建你自己的 `网络栈`
