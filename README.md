@@ -41,7 +41,8 @@
     - [构建自己的 `Docker`](#构建自己的-docker)
     - [构建自己的 `模拟器 / 虚拟机`](#构建自己的-模拟器--虚拟机)
     - [构建自己的 `前端框架/库`](#构建自己的-前端框架库)
-    - [构建自己的 `游戏`](#构建自己的-游戏)
+    - [构建自己的 游戏](#构建自己的-游戏)
+    - [构建自己的 `游戏服务器与启动器`](#构建自己的-游戏服务器与启动器)
     - [构建自己的 `Git`](#构建自己的-git)
     - [构建自己的 `网络栈`](#构建自己的-网络栈)
     - [构建自己的 `算法`](#构建自己的-算法)
@@ -170,6 +171,13 @@
 * [**Java**：_使用Java编写一个2D游戏引擎（适合初学者）_](https://www.youtube.com/watch?v=025QFeZfeyM) [视频]
 * [**JavaScript**：_用Phaser构建2D打砖块游戏_](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
 * [**Rust**：_Rust游戏编程冒险：一个简单的2D游戏_](https://a5huynh.github.io/posts/2018/adventures-in-rust/)
+
+#### 构建自己的 `游戏服务器与启动器`
+
+* [**C#**：_Playnite：开源的游戏库管理器和启动器_](https://github.com/JosefNemec/Playnite)
+* [**TypeScript**：_Heroic Games Launcher：跨平台的 Epic 和 GOG 启动器_](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
+* [**Go / React**：_Drop：自托管的游戏分发平台_](https://github.com/its-shiva/drop)
+* [**Python / C**：_Lutris：Linux 上的开放式游戏平台_](https://github.com/lutris/lutris)
 
 #### 构建自己的 `Git`
 
