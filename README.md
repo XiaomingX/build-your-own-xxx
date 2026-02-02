@@ -75,6 +75,10 @@
     - [构建自己的 `视觉识别系统`](#构建自己的-视觉识别系统)
     - [构建自己的 `体素引擎`](#构建自己的-体素引擎)
     - [构建自己的 `网页浏览器`](#构建自己的-网页浏览器)
+    - [构建自己的 `机密管理与密码管理`](#构建自己的-机密管理与密码管理)
+    - [构建自己的 `PaaS / Vercel 替代品`](#构建自己的-paas--vercel-替代品)
+    - [构建自己的 `身份认证与鉴权 (IAM)`](#构建自己的-身份认证与鉴权-iam)
+    - [构建自己的 `推荐系统与 Feed 流`](#构建自己的-推荐系统与-feed-流)
     - [构建自己的 `Web 服务器`](#构建自己的-web-服务器)
 - [贡献方式](#贡献方式)
 
@@ -404,6 +408,38 @@
 #### 构建自己的 `体素引擎`
 
 * [**C++**：_让我们一起来制作一个体素引擎_](https://sites.google.com/site/letsmakeavoxelengine/home)
+
+#### 构建自己的 `机密管理与密码管理`
+
+* [**Go**：_gopass：功能成熟的命令行密码库_](https://github.com/gopasspw/gopass)
+* [**Go**：_Vault：工业级机密管理标准_](https://github.com/hashicorp/vault)
+* [**Java**：_SecurePasswordStorage：基于 Spring Boot 的 Web 密码管理系统_](https://github.com/stanly363/password-manager)
+* [更多资源详见 docs/build-your-own-Vault.md](docs/build-your-own-Vault.md)
+
+#### 构建自己的 `PaaS / Vercel 替代品`
+
+* [**TypeScript**：_Dokploy：现代轻量级自托管 PaaS (Coolify 竞争对手)_](https://github.com/Dokploy/dokploy)
+* [**PHP / Go**：_Coolify：最火的 Vercel 开源替代方案_](https://github.com/coollabsio/coolify)
+* [**Python**：_Dokku：最老牌、稳定的自托管 PaaS_](https://github.com/dokku/dokku)
+* [**TypeScript**：_CapRover：基于 Docker Swarm 的轻量级 PaaS_](https://github.com/caprover/caprover)
+* [更多资源详见 docs/build-your-own-vercel.md](docs/build-your-own-vercel.md)
+
+#### 构建自己的 `身份认证与鉴权 (IAM)`
+
+* [**Go**：_ZITADEL：支持多租户、事件驱动的 Auth0 开源继任者_](https://github.com/zitadel/zitadel)
+* [**Go**：_Ory Kratos：无头（Headless）身份管理，完全控制前端 UI_](https://github.com/ory/kratos)
+* [**Java**：_Keycloak：开源 IAM 领域的“老大哥”，功能最全的企业级方案_](https://github.com/keycloak/keycloak)
+* [**Java**：_SuperTokens：开发者最友好的 Auth0 替代方案_](https://github.com/supertokens/supertokens-core)
+* [**Python**：_authentik：配置极其灵活的全面身份供应商_](https://github.com/goauthentik/authentik)
+* [更多资源详见 docs/build-your-own-auth0.md](docs/build-your-own-auth0.md)
+
+#### 构建自己的 `推荐系统与 Feed 流`
+
+* [**Go**：_Gorse：基于 Golang 的通用高性能推荐引擎_](https://github.com/gorse-io/gorse)
+* [**Java / Scala / Python**：_Twitter The Algorithm：社交巨头的真实推荐算法开源_](https://github.com/twitter/the-algorithm)
+* [**Python**：_Stream Framework：用于构建 Feed 流与社交网络的 Python 框架_](https://github.com/tschellenbach/Stream-Framework)
+* [**Python**：_Microsoft Recommenders：全球最全的推荐系统算法库_](https://github.com/recommenders-team/recommenders)
+* [更多资源详见 docs/build-your-own-recommend-system.md](docs/build-your-own-recommend-system.md)
 
 #### 构建自己的 `网页浏览器`
 
