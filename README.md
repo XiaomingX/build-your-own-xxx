@@ -200,6 +200,10 @@
 *   [**Python**：_NanoGPT：从头开始构建GPT_](https://github.com/karpathy/nanoGPT)
 *   [**Python**：_Andrej Karpathy: Let's build GPT_](https://www.youtube.com/watch?v=kCc8FmEb1nY) [视频]
 *   [**Python**：_LLM训练指南 (LLMs from Scratch)_](https://github.com/rasbt/LLMs-from-scratch)
+*   [**Python**：_Lit-GPT：轻量高效的训练与微调框架_](https://github.com/Lightning-AI/litgpt)
+*   [**Python**：_TorchTune：PyTorch 官方大模型微调工具箱_](https://github.com/pytorch/torchtune)
+*   [**Python**：_Axolotl：主流开源微调训练配置框架_](https://github.com/OpenAccess-AI-Collective/axolotl)
+*   [**Python**：_OpenRLHF：RLHF / DPO / PPO 训练流程_](https://github.com/OpenRLHF/OpenRLHF)
 
 #### 构建自己的 `AI 搜索引擎` (Perplexity 替代品)
 
