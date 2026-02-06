@@ -79,6 +79,7 @@
     - [构建自己的 `PaaS / Vercel 替代品`](#构建自己的-paas--vercel-替代品)
     - [构建自己的 `身份认证与鉴权 (IAM)`](#构建自己的-身份认证与鉴权-iam)
     - [构建自己的 `推荐系统与 Feed 流`](#构建自己的-推荐系统与-feed-流)
+    - [构建自己的 `Model Context Protocol (MCP) 服务器`](#构建自己的-model-context-protocol-mcp-服务器)
     - [构建自己的 `网页浏览器`](#构建自己的-网页浏览器)
     - [构建自己的 `Web 服务器`](#构建自己的-web-服务器)
 - [贡献方式](#贡献方式)
@@ -231,6 +232,7 @@
 *   [**Python**：_superpowers：强迫 AI 遵循 TDD 流程的编程框架_](https://github.com/obra/superpowers)
 *   [**JavaScript**：_skills：Anthropic 官方提供的 Agent Skills 实现_](https://github.com/anthropics/skills)
 *   [**TypeScript**：_vibe-kanban：专门给 AI 用的看板工具_](https://github.com/BloopAI/vibe-kanban)
+*   [**Python**：_Aider：终端里的 AI 配对编程工具，支持本地 Git_](https://github.com/aider-chat/aider)
 
 #### 构建自己的 `AI 知识库与播客` (NotebookLM 替代品)
 
@@ -451,6 +453,13 @@
 * [**Python**：_Stream Framework：用于构建 Feed 流与社交网络的 Python 框架_](https://github.com/tschellenbach/Stream-Framework)
 * [**Python**：_Microsoft Recommenders：全球最全的推荐系统算法库_](https://github.com/recommenders-team/recommenders)
 * [更多资源详见 docs/build-your-own-recommend-system.md](docs/build-your-own-recommend-system.md)
+
+#### 构建自己的 `Model Context Protocol (MCP) 服务器`
+
+*   [**Go**：_Roundtable：零配置的极简 MCP 服务器_](https://github.com/askbudi/roundtable)
+*   [**TypeScript**：_MCP Servers：Anthropic 官方收集的 MCP 服务器合集_](https://github.com/modelcontextprotocol/servers)
+*   [**Python**：_Smithery：MCP 服务器发现与一键安装平台_](https://smithery.ai/)
+*   [**TypeScript**：_ToolHive：快速部署 MCP 服务器的工具_](https://github.com/stacklok/toolhive)
 
 #### 构建自己的 `网页浏览器`
 
